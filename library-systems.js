@@ -1,3 +1,17 @@
+/*
+========================================================
+Practice: Working with Multi-Dimensional Arrays
+========================================================
+Goal:
+- Create and manipulate a 2D array (library system)
+- Access data using bracket notation
+- Use variables for dynamic access
+- Use loops for iteration
+========================================================
+*/
+
+
+
 // Task 1: Create a Multi-Dimensional Array
 
 let library = [
